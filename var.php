@@ -23,16 +23,13 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function darkeagle_banner(){
   echo "\e[91;1m
-           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m 
+  All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m 
 
 █▀▀▄ █▀▀█ █▀▀█ █░█ █▀▀ █▀▀█ █▀▀▀ █░░ █▀▀
 █░░█ █▄▄█ █▄▄▀ █▀▄ █▀▀ █▄▄█ █░▀█ █░░ █▀▀
-▀▀▀░ ▀░░▀ ▀░▀▀ ▀░▀ ▀▀▀ ▀░░▀ ▀▀▀▀ ▀▀▀ ▀▀▀ 
+▀▀▀░ ▀░░▀ ▀░▀▀ ▀░▀ ▀▀▀ ▀░░▀ ▀▀▀▀ ▀▀▀ ▀▀▀
          {C} MADE BY NANDYDARK
-
-                                                                  \e[97m [$] OWNER - NANDYDARK;)
- 
- \e[32m
-  \n";
+\e[97m [$] OWNER - NANDYDARK;)
+\e[32m";
 }
 ?>
